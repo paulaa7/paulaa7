@@ -1,29 +1,31 @@
-<h1 align="center">
-  Hi there! I'm Paula
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
-</h1>
-
-<img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
-
-Final-year **Computer Engineering** student at the **University of Granada (UGR)**.
-
-Studying at **ETSIIT** with a specialization in **Computer Systems Intelligence (CSI)**.
-
-Passionate about **Artificial Intelligence**, **Machine Learning**, and **Backend Development**.
-
-Currently working on my **Bachelor's Thesis (TFG)** and developing projects focused on **Machine Learning**.
-
-I enjoy solving real-world problems through software and continuously learning new technologies.
+<h2>
+  Hi there! I'm Paula  
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWl3ZThzYjd2dm55anFxaXFpZGpxaWx2cHkxYmhjeXQxYWVsdXBxayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kBZ212yGzFaxgkSIKW/giphy.gif" width="25">
+</h2>
 
 
 
-[![LinkedIn](https://img.shields.io/badge/-Paula_González_García-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paula-gonzález-garcía-044649183/)](https://www.linkedin.com/in/paula-gonzález-garcía-044649183/)
+<img align="right" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHpiNnFwYTI2dm15aHFwOG1oMnYyMXlmbGs3M2YxanZwZWExZzB5aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/aIJDrOomj81MQZz2uO/giphy.gif" width="220">
 
-[![GitHub followers](https://img.shields.io/github/followers/paulaa7?label=Follow&style=social)](https://github.com/paulaa7)
+<em><p>Final-year **Computer Engineering** student at the University of Granada (UGR), **ETSIIT**, with a specialization in **Computer Systems Intelligence (CSI)**.</em></p>
+
+<em><p>Passionate about **Artificial Intelligence**, **Machine Learning**, and **Backend Development**.</em></p>
+
+<em><p>Currently working on my **Bachelor's Thesis (TFG)** and developing projects focused on **Machine Learning**.</em></p>
 
 
+<br>
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45"> A little more about me...
+<br>
+
+
+[![LinkedIn](https://img.shields.io/badge/-Paula_González_García-white?style=flat-square&logo=linkedin&logoColor=9370DB)](https://www.linkedin.com/in/paula-gonzález-garcía-044649183/) 
+<img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnd6cjVieW96cnlkM2NpdmtqZ3dqd2g2NjF0a3ljczkzY2lqamNvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lShSd1dXlzSsrbx7iU/giphy.gif" width="25">
+
+
+<br>
+
+## A little more about me... <img align="center" alt="Coding" width="35" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGRvdXpkMzh4bmVobmFia253ZGV1MnpvZGJmZmt2ODhoM3kyajF0dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/QtppKt6hgF0IHcCN59/giphy.gif">
 
 ```javascript
 const paula = {
@@ -127,16 +129,6 @@ const paula = {
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab)
-
----
-
-## 📈 GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=paulaa7&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=paulaa7&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=paulaa7&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
