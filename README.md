@@ -5,15 +5,15 @@
 
 <img align="right" src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-- Final-year **Computer Engineering** student at the **University of Granada (UGR)**.
+Final-year **Computer Engineering** student at the **University of Granada (UGR)**.
 
-- Studying at **ETSIIT** with a specialization in **Computer Systems Intelligence (CSI)**.
+Studying at **ETSIIT** with a specialization in **Computer Systems Intelligence (CSI)**.
 
-- Passionate about **Artificial Intelligence**, **Machine Learning**, and **Backend Development**.
+Passionate about **Artificial Intelligence**, **Machine Learning**, and **Backend Development**.
 
-- Currently working on my **Bachelor's Thesis (TFG)** and developing projects focused on **Machine Learning**.
+Currently working on my **Bachelor's Thesis (TFG)** and developing projects focused on **Machine Learning**.
 
-- I enjoy solving real-world problems through software and continuously learning new technologies.
+I enjoy solving real-world problems through software and continuously learning new technologies.
 
 ---
 
