@@ -15,13 +15,13 @@ Currently working on my **Bachelor's Thesis (TFG)** and developing projects focu
 
 I enjoy solving real-world problems through software and continuously learning new technologies.
 
----
+
 
 [![LinkedIn](https://img.shields.io/badge/-Paula_González_García-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paula-gonzález-garcía-044649183/)](https://www.linkedin.com/in/paula-gonzález-garcía-044649183/)
 
 [![GitHub followers](https://img.shields.io/github/followers/paulaa7?label=Follow&style=social)](https://github.com/paulaa7)
 
----
+
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="45"> A little more about me...
 
