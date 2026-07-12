@@ -130,14 +130,6 @@ const paula = {
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab)
 
----
-
-## 🌱 Currently
-
-- 🎓 Finishing my Computer Engineering degree.
-- 🤖 Working on my Bachelor's Thesis.
-- 📚 Building Machine Learning projects.
-- 🚀 Looking for opportunities in Artificial Intelligence and Backend Development.
 
 ---
 
