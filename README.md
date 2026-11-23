@@ -1,5 +1,6 @@
 <h2>
   Hi there! I'm Paula
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWprbDV0ZHg3cGUwM3J1a2RlMXZ0MndkY25jbmZ4d3hibXdsMDU1YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/kBZ212yGzFaxgkSIKW/giphy.gif" width="25">
 </h2>
 
 
@@ -20,6 +21,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-Paula_González_García-1C2633?style=flat-square&logo=linkedin&logoColor=79C0FF)](https://www.linkedin.com/in/paula-gonzález-garcía-044649183/)
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMnd6cjVieW96cnlkM2NpdmtqZ3dqd2g2NjF0a3ljczkzY2lqamNvOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/lShSd1dXlzSsrbx7iU/giphy.gif" width="25">
+
 
 
 <br>
